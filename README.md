@@ -60,5 +60,6 @@ https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 ```
 
 ## Notice
-I am not very familiar with how css works, so there might be some useless rubbish code inside the css file.
-Many thanks to the owner of Blue Topaz. This is an amazing theme.
+- I am not very familiar with how css works, so I might embed some useless rubbish code inside the file when trying to DIY the theme myself.
+- Many thanks to the owner of Blue Topaz. This is an amazing theme.
+- Hail Hydra.
