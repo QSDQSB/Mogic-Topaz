@@ -16,11 +16,18 @@ https://github.com/whyt-byte/Blue-Topaz_Obsidian-css
 
 
 ### Font
-- Main Font: `Charter`, 20px. (at the end of css file)
+- Main Font: `Charter`, 20px. 
+>(at the end of css file)
+```css
+body {
+	font-family: "Charter", serif!important;
+	font-size: 20px;
+}
+```
 - Title Font: `SF Pro Rounded`, a MacOS Font.
 
 ### Tag
-> All tags in the orginal Blue Topaz theme are inheritted. I customised some own tag for my Maths study purposes, including #TBV (To Be Viewed), #MostCrucial, and some other Maths subjects (#Analysis, #MVC, #ProblemSheet, etc). You can search `MostCrucial` in the css file to find the location to DIY tags.
+> All tags in the orginal Blue Topaz theme are inheritted. I customised some own tag for my Maths study purposes, including `#TBV` (To Be Viewed), `#MostCrucial`, and some other Maths subjects (`#Analysis`, `#MVC`, `#ProblemSheet`, etc). You can search `MostCrucial` in the css file to find the location to DIY tags.
 > 
 > Some tags use the font `Georgia`.
 ```css
